@@ -1,7 +1,7 @@
 package com.androidtask.vova.testtask;
 
 /**
- * Created by User on 20.08.2015.
+ * Created by Vova on 20.08.2015.
  */
 import android.content.ContentValues;
 import android.content.Context;
