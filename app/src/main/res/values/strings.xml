@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Testtask</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Связаться</string>
+    <string name="title_activity_calc">CalcActivity</string>
+</resources>
